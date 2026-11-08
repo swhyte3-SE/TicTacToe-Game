@@ -16,3 +16,6 @@ java -cp src TicTacToe
 ## Current Development Status
 The starter currently prints a welcome message.
 Game logic, player turns, and win detection are not implemented yet.
+
+## GitHub Update
+This README was updated directly on GitHub to practice pulling changes into a local repository.
